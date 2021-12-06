@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "MLB owners lock out players amid league's 1st work stoppage since 1995 | CBC Sports",
+            "description": "Major League Baseball plunged into its first work stoppage in a quarter-century when the sport's collective bargaining agreement expired Wednesday night and owners immediately locked out players in a move that threatens spring training and opening day.",
+            "url": "http://www.cbc.ca/sports/baseball/mlb/mlb-1st-work-stoppage-since-1995-1.6270097",
+            "urlToImage": "https://i.cbc.ca/1.6270121.1638421903!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/owners-meetings-baseball.jpg",
+            "publishedAt": "2021-12-02T05:52:23.0524608Z",
+            "content": "Major League Baseball plunged into its first work stoppage in a quarter-century when the sport's collective bargaining agreement expired Wednesday night and owners immediately locked out players in a… [+6724 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Howard Fendrich/AP",
+            "title": "WTA Says It Is Suspending Tournaments in China Over Lingering Concerns About Peng Shuai",
+            "description": "The WTA's move is the strongest public stand against China taken by a sports body — and one that could cost the WTA millions of dollars.",
+            "url": "http://time.com/6125233/wta-suspends-china-tennis-peng-shuai/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2021/12/Peng-Shuai.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2021-12-02T08:02:57Z",
+            "content": "The suspension of all WTA tournaments in China because of concerns about the safety of Peng Shuai, a Grand Slam doubles champion who accused a former government official there of sexual assault, coul… [+6783 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Kenny Vaccaro retiring from NFL after eight seasons to launch esports organization",
+            "description": "Longtime NFL safety Kenny Vaccaro announced his retirement on Wednesday. Vaccaro will now focus on a future in esports with his new organization, G1.",
+            "url": "https://www.nfl.com/news/kenny-vaccaro-retiring-from-nfl-after-eight-seasons-to-launch-esports-organizati",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/d0sz0tzkxvkwph8bx8w5",
+            "publishedAt": "2021-12-01T20:52:48.611621Z",
+            "content": "Kenny Vaccaro is calling it a career and immediately stepping into a new, virtual arena.\r\nThe former Titans and Saints defensive back is retiring and shifting his attention to the launch of a new esp… [+2339 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
