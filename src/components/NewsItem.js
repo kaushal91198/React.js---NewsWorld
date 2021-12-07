@@ -13,9 +13,14 @@ export class NewsItem extends Component {
     return (
       <div className="my-3">
         <div className="card">
-          <span class="position-absolute top-0 translate-middle badge rounded-pill bg-success" style={{left:'90%',zIndex:"1"}}>
-            {source}
-          </span>
+          <div className='d-flex flex-row-reverse position-absolute top-0 end-0 '>
+            <span
+              className= "badge rounded-pill bg-success"
+              style={{ left: "90%", zIndex: "1" }}
+            >
+              {source}
+            </span>
+          </div>
           <img
             src={imageUrl}
             className="card-img-top"
