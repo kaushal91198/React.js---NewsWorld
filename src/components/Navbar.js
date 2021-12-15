@@ -48,11 +48,7 @@ export class Navbar extends Component {
                     Home
                   </Link>
                 </li>
-                <li className="nav-item">
-                  <Link className="nav-link" to="/about">
-                    About
-                  </Link>
-                </li>
+
                 {/* //business entertainment general health science sports technology */}
                 <li className="nav-item dropdown">
                   <a
